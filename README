@@ -1,0 +1,4 @@
+This is a work in progress USB Human Interface Device (HID) library.
+So far the OSX implementation has made good progress and partially works.
+A windows backend was initially planned, as well as a libusb backend.
+We'll see how things go. It is licensed under the CC0 1.0.
